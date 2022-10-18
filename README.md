@@ -9,4 +9,4 @@
 
 
 ## Key Insights for Presentation:
-> ** For the presentation, I focused on the factors determining the duration of rides. I started by introducing the distribution of the duration of rides, and user type. I went forth to present the relationship of the duration of rides with weekdays and hours of the day. Finally, I presented the result of investigating the pattern above as per use type. **
+> **For the presentation, I focused on the factors determining the duration of rides. I started by introducing the distribution of the duration of rides, and user type. I went forth to present the relationship of the duration of rides with weekdays and hours of the day. Finally, I presented the result of investigating the pattern above as per use type.**
